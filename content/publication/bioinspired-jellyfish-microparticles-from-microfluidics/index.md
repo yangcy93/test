@@ -44,7 +44,7 @@ url_source: ""
 url_video: ""
 title: Bioinspired Jellyfish Microparticles from Microfluidics
 doi: https://doi.org/10.34133/ research.0034
-featured: true
+featured: false
 tags:
   - microparticles
 projects: []
@@ -55,7 +55,7 @@ image:
   filename: 1.png
 date: 2023-02-13T03:07:30.680Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---

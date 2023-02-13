@@ -23,17 +23,11 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Chaoyu Yang1
-  - "2"
-  - Yunru Yu1
-  - "2"
-  - Yuanjin Zhao1
-  - 2*
-  - and Luoran Shang1
-  - 3*
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Chaoyu Yang
+  - Yunru Yu
+  - Yuanjin Zhao
+  - and Luoran Shang
+author_notes: []
 publication: Research
 summary: Inspired by jellyfish, a novel particle adsorbent is developed using
   piezoelectric microfluidics for water decontamination.
@@ -44,7 +38,7 @@ url_source: ""
 url_video: ""
 title: Bioinspired Jellyfish Microparticles from Microfluidics
 doi: https://doi.org/10.34133/ research.0034
-featured: false
+featured: true
 tags:
   - microparticles
 projects: []
